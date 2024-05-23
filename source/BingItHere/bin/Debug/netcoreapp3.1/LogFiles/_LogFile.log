@@ -1,0 +1,462 @@
+20210812-14:00:59.0322  |  Info  |  CoreTools  |  Opening Browser
+20210812-14:01:02.0385  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20210812-14:01:02.0391  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20210812-14:01:27.0106  |  Debug  |  NavTo  |  Ready State:	complete
+20210812-14:01:29.0142  |  Info  |  NavTo  |  Success - Navigated to:	https://www.seleniumeasy.com/test/basic-checkbox-demo.html
+20210812-14:01:35.0165  |  Debug  |  SetLocator  |  Locator Strategy:	ID	Element:	isAgeSelected
+20210812-14:01:35.0181  |  Debug  |  FindElement  |  Finding Element [isAgeSelected]
+20210812-14:01:40.0301  |  Debug  |  Click  |  Clicking on Element.
+20210812-14:02:02.0517  |  Debug  |  NavTo  |  Ready State:	complete
+20210812-14:02:04.0543  |  Info  |  NavTo  |  Success - Navigated to:	https://www.seleniumeasy.com/test/basic-first-form-demo.html
+20210812-14:02:11.0554  |  Debug  |  SetLocator  |  Locator Strategy:	ID	Element:	at-cv-lightbox-close
+20210812-14:02:11.0560  |  Debug  |  FindElement  |  Finding Element [at-cv-lightbox-close]
+20210812-14:02:14.0594  |  Debug  |  Click  |  Clicking on Element.
+20210812-14:02:20.0840  |  Debug  |  SetLocator  |  Locator Strategy:	ID	Element:	user-message
+20210812-14:02:20.0846  |  Debug  |  FindElement  |  Finding Element [user-message]
+20210812-14:03:04.0116  |  Debug  |  NavTo  |  Ready State:	complete
+20210812-14:03:06.0138  |  Info  |  NavTo  |  Success - Navigated to:	https://www.ltaat.com/
+20210812-14:03:14.0148  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//*[contains(text(),'LTAAT')]
+20210812-14:03:14.0834  |  Debug  |  FindElement  |  Finding Element [//*[contains(text(),'LTAAT')]]
+20210812-14:03:18.0064  |  Debug  |  SetAttribute  |  JavaScript to Run:
+
+20210812-14:03:20.0093  |  Debug  |  SetAttribute  |  JavaScript to Run:
+
+20210812-14:03:24.0140  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//a[text()='About the Founder']
+20210812-14:03:24.0150  |  Debug  |  FindElement  |  Finding Element [//a[text()='About the Founder']]
+20210812-14:03:27.0175  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//a
+20210812-14:03:30.0227  |  Debug  |  FindElements  |  Elements Found:	62
+	
+|Element (id = 42217977-bfa4-4c13-8f56-f2c43af16b51)|
+|Element (id = e6c753ec-99f3-404e-8f82-5ca0672ae015)|
+|Element (id = 7a5bebf9-dcef-420a-ac97-8e1c7724860a)|
+|Element (id = 5b285542-5956-420d-8f96-b1942e0e93cf)|
+|Element (id = 94b56c18-1294-49ac-846f-ca4056126cd9)|
+|Element (id = fef631bd-3643-495b-aa64-4254311acaca)|
+|Element (id = f6b1653a-ffb3-41be-b9d0-3e0a50ccf7da)|
+|Element (id = 193aef0a-e957-48b9-9314-227ddbb56f8f)|
+|Element (id = 5d2e759a-7920-4751-b723-bcda661327e7)|
+|Element (id = 7a19edfa-a69a-49a1-b9ac-0665bf2314b4)|
+|Element (id = c2bc3ec5-a8f6-49e2-98a0-7f01bd747b67)|
+|Element (id = 59156da7-6279-4e25-9be5-7db433fd5912)|
+|Element (id = 1dfe4e4f-62ab-419d-af0c-25818f49b09e)|
+|Element (id = c9b3ef6b-7358-4f0c-b0e5-931f7506c0ca)|
+|Element (id = d68fc90f-cae0-4a1a-92f5-fe3d4e763a10)|
+|Element (id = a7cd6ff1-94c4-408f-8cc9-16abd7445591)|
+|Element (id = 305ebbc3-5bf5-4129-a9cf-0c0f87944ca3)|
+|Element (id = ad566e73-b9d6-4e70-9794-58bda38f95a5)|
+|Element (id = 005f1bb0-4801-4a28-afba-4c855b10444e)|
+|Element (id = 0389160d-2c90-4080-a220-4998ff5bfc6d)|
+|Element (id = 4e671195-8b52-4010-8c2a-40d04b3a926b)|
+|Element (id = 12261b93-6a71-461c-9680-54d03c4b8541)|
+|Element (id = f482fbc4-9348-422e-acdf-760fb0ef6eaa)|
+|Element (id = 28fe5488-fdd2-4ac7-8fe3-20c71db270db)|
+|Element (id = 4d466d07-1487-437a-ae05-5101fb0e4d0c)|
+|Element (id = a1de779b-00dd-4858-bd84-555bf90c5b20)|
+|Element (id = f2e8dd0a-e948-423c-bbb3-e205ce6bca9d)|
+|Element (id = 0a02cfa7-6150-4f1c-99e2-02ae3a540b84)|
+|Element (id = 7c962a4d-a883-4a0a-981a-46ea75c9654a)|
+|Element (id = fdb0ccb3-1cba-4c8b-8b66-999ef6972449)|
+|Element (id = f26d4177-c0c2-4032-92dc-ab56a230a314)|
+|Element (id = f2cc76ad-2a5d-4978-88a9-1327a5c5a114)|
+|Element (id = a4030d72-c899-4b9b-822e-4d317f8a38b6)|
+|Element (id = b5909d5b-8191-4fd5-9e40-a94070fb94fa)|
+|Element (id = 8c600957-93be-4e7f-8df7-c3a29725bc4a)|
+|Element (id = abc467fe-5dd1-46e3-8d6c-8583b7973ca7)|
+|Element (id = 18913d98-de81-4c06-b727-8140493c9166)|
+|Element (id = 02d3c142-97ad-43b3-a5dd-5073b1012ceb)|
+|Element (id = 04fb8931-2439-437f-97d7-775c63abf4a8)|
+|Element (id = 1fb188e6-1ac3-4014-a9fc-6eb3bfdb1234)|
+|Element (id = e3eb7287-11d3-48bd-ba9a-4bd2e3002303)|
+|Element (id = a80f0041-70f6-4642-9809-dc9a5a8c5bd8)|
+|Element (id = d21690c2-c20c-4fa2-940e-753fddf03b3f)|
+|Element (id = 34f483cc-d94f-448a-8a3f-928e042aa402)|
+|Element (id = b1d0828c-d5d0-447d-a97f-ccecdac89882)|
+|Element (id = 86e898ba-611a-402e-ae63-906c5400fc90)|
+|Element (id = 4c735447-c10a-4bcc-87a2-7199def335c7)|
+|Element (id = dd6cafac-b283-4b45-94e8-64ed1620e829)|
+|Element (id = 162fdac7-a6c4-4f9f-b628-718c5123b10c)|
+|Element (id = 761c82c9-fdab-4b27-adc6-43d5cc89e83b)|
+|Element (id = 15e0288c-5449-4429-93c2-af6756a39bfc)|
+|Element (id = c4ef509e-724d-4eac-a08a-cb7d2fdd6143)|
+|Element (id = c8cb91ee-7ef9-4aed-a452-8db1b6a7dc87)|
+|Element (id = 0ed42566-832e-47b9-b5a6-57f8e1ac2fae)|
+|Element (id = fd66d5b0-6204-4cb1-b0e0-66bd277c418a)|
+|Element (id = ffbe2813-6004-45cf-b7a4-0c0bdfb091d4)|
+|Element (id = 2f2fb241-4821-445b-b69d-32b96b316b31)|
+|Element (id = e1a11e45-d8e5-4958-8fd7-a13be760b4eb)|
+|Element (id = a9d6be76-3588-48ef-bf7a-1fb8f9ceb270)|
+|Element (id = 87a5837e-5297-4c63-adb5-eb85e888c857)|
+|Element (id = a1df4f44-3e88-436b-a434-05361149ffa1)|
+|Element (id = ea4dd80d-ade7-44af-8fd1-c59d3d17e3f8)|
+
+20210812-14:03:30.0296  |  Debug  |  Click  |  Clicking on Element.
+20210812-14:03:49.0382  |  Info  |  CloseBrowser  |  Closing Browser Session
+20210812-14:10:24.0482  |  Info  |  CoreTools  |  Opening Browser
+20210812-14:10:24.0530  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20210812-14:10:24.0533  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20210812-14:10:45.0736  |  Debug  |  NavTo  |  Ready State:	complete
+20210812-14:10:47.0770  |  Info  |  NavTo  |  Success - Navigated to:	https://www.seleniumeasy.com/test/basic-checkbox-demo.html
+20210812-14:10:56.0782  |  Debug  |  SetLocator  |  Locator Strategy:	ID	Element:	isAgeSelected
+20210812-14:10:56.0791  |  Debug  |  FindElement  |  Finding Element [isAgeSelected]
+20210812-14:11:01.0889  |  Debug  |  Click  |  Clicking on Element.
+20210812-14:11:18.0410  |  Debug  |  NavTo  |  Ready State:	complete
+20210812-14:11:20.0434  |  Info  |  NavTo  |  Success - Navigated to:	https://www.seleniumeasy.com/test/basic-first-form-demo.html
+20210812-14:11:29.0444  |  Debug  |  SetLocator  |  Locator Strategy:	ID	Element:	at-cv-lightbox-close
+20210812-14:11:29.0451  |  Debug  |  FindElement  |  Finding Element [at-cv-lightbox-close]
+20210812-14:11:32.0573  |  Debug  |  Click  |  Clicking on Element.
+20210812-14:11:38.0826  |  Debug  |  SetLocator  |  Locator Strategy:	ID	Element:	user-message
+20210812-14:11:38.0840  |  Debug  |  FindElement  |  Finding Element [user-message]
+20210812-14:12:08.0774  |  Debug  |  NavTo  |  Ready State:	complete
+20210812-14:12:10.0795  |  Info  |  NavTo  |  Success - Navigated to:	https://www.ltaat.com/
+20210812-14:12:16.0806  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//*[contains(text(),'LTAAT')]
+20210812-14:12:16.0811  |  Debug  |  FindElement  |  Finding Element [//*[contains(text(),'LTAAT')]]
+20210812-14:12:19.0839  |  Debug  |  SetAttribute  |  JavaScript to Run:
+
+20210812-14:12:21.0861  |  Debug  |  SetAttribute  |  JavaScript to Run:
+
+20210812-14:12:25.0920  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//a[text()='About the Founder']
+20210812-14:12:25.0927  |  Debug  |  FindElement  |  Finding Element [//a[text()='About the Founder']]
+20210812-14:12:28.0951  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//a
+20210812-14:12:32.0009  |  Debug  |  FindElements  |  Elements Found:	62
+	
+|Element (id = 9462c090-3707-4b29-a87e-4e80b1ee8649)|
+|Element (id = 1b8e9012-1077-4493-a318-9683c2688ed3)|
+|Element (id = d1b6d730-21a7-4035-b35d-e0faa20d3ac4)|
+|Element (id = 6539aae8-eae6-4e18-9882-0fda9aafb16c)|
+|Element (id = c7fe64a8-7a37-4518-b098-043909105c1f)|
+|Element (id = 24aac41a-08d0-443e-a6ef-13680cd9dfb8)|
+|Element (id = 1ff6956c-c152-4fe5-91f3-d6a1fd8b2100)|
+|Element (id = 13a9042e-b3a7-46b5-8069-fcbc79010a89)|
+|Element (id = 5b2799cf-0da2-460d-9365-5107256e85c5)|
+|Element (id = 41ad1ab8-7261-4309-b799-7799f84152e0)|
+|Element (id = ca748a1d-43e0-4e36-9ffa-7e7e324ea4fc)|
+|Element (id = 4fd9548f-a719-4c9a-80e7-ee7a936411c7)|
+|Element (id = e5ad6494-d0d7-4f32-a9e2-d67f2cc047d0)|
+|Element (id = 5cd3c099-0d24-4397-a35a-a7692e1b1ad7)|
+|Element (id = bea2c856-648c-4b81-b7b5-354814132e6d)|
+|Element (id = 0a3a7223-687a-45d7-8d24-e5f89b524c39)|
+|Element (id = 66981f1f-161d-443d-b974-509bf4071576)|
+|Element (id = 385aedfc-a9ff-4358-9ae6-0286a4d2db90)|
+|Element (id = 33a34b33-4cd4-440c-9d9d-431157ad93a7)|
+|Element (id = ec5ea4ed-c68d-497d-9695-ff77e34ae31e)|
+|Element (id = 468d0526-3be0-40c0-be6a-9f0af8f88f53)|
+|Element (id = 436fd910-37c9-4485-b4ba-10f696cc026a)|
+|Element (id = ef1ab9e6-0303-43d4-b274-e47dfd8c3bfe)|
+|Element (id = fbc5f2b0-0a84-4ee9-9fdc-67c052d40bd8)|
+|Element (id = 1b46321e-6f7b-4811-a50c-bb43a4a523e3)|
+|Element (id = 0b40339c-a86d-4521-87c2-73d900b82e0e)|
+|Element (id = 4d1fbcac-38ca-44aa-b639-c215c6fccdf8)|
+|Element (id = 77dcba4f-d810-4db2-8ade-d75610b326f4)|
+|Element (id = 63ada45c-931d-4863-8e8f-92194f694a1c)|
+|Element (id = d117fc67-1779-49ed-ab6c-2527f442d3cb)|
+|Element (id = f0b99868-dc65-4177-aec3-1ca68fc0c098)|
+|Element (id = 1abb49c7-d877-4fb0-a323-96affa16d396)|
+|Element (id = fb21618b-1748-4fc7-a1a1-4c7ee6906075)|
+|Element (id = ed7073ed-b7c1-4bb9-aa8e-805cfa612a9b)|
+|Element (id = fe7ef478-7d6c-400e-9bdf-1fe534553691)|
+|Element (id = 60e90c06-d683-4546-935a-e3eedb4715b6)|
+|Element (id = 02407528-09c8-4532-b168-3d3bfa87a1ae)|
+|Element (id = 1297f86e-6e19-476a-a8b8-9d01ad7b3058)|
+|Element (id = 723a61a7-d271-4f88-84fd-a9990ca4d788)|
+|Element (id = 024d4e81-9e4d-4273-a89c-cc963f7e21b0)|
+|Element (id = 84c8ef76-08ed-41f7-bbab-11461e6383d8)|
+|Element (id = 71d06613-7239-4974-9321-dbe350828849)|
+|Element (id = d372a3a1-3284-4e83-a312-9c9aab205a17)|
+|Element (id = 699eff82-f8c8-4a0c-a5ee-fa3c09736440)|
+|Element (id = 9b04aba2-f64a-4afd-b347-b5ca0149583f)|
+|Element (id = fb93b162-2ffc-4f04-a447-04daeea748ed)|
+|Element (id = 46d7fd24-be97-4f04-bf73-d9abe94d5236)|
+|Element (id = c8cdcb74-0b8b-4750-822e-a608f3c5d51c)|
+|Element (id = 6700d331-65b7-41e7-9799-304f6431b949)|
+|Element (id = 3e199fb9-4a17-4056-b24e-0317640e0be1)|
+|Element (id = d2c758aa-5bb8-4a7d-9d7f-a1c06c1741dd)|
+|Element (id = 1fe8d861-665b-4ce7-a3a9-7470d11b51f5)|
+|Element (id = e765da7b-6843-4daf-bbee-1e33792c3781)|
+|Element (id = 73dc53fc-0c0e-41a4-8f30-67b5a520cf56)|
+|Element (id = b9881e8f-56ea-4644-a208-acbcb3ab8734)|
+|Element (id = fd89583d-af3a-4d6f-acf7-8eeb3c288891)|
+|Element (id = be6b500b-af34-4394-9b4e-b987c2bd9904)|
+|Element (id = 102da8f4-126e-4d0b-9441-2185faf081cb)|
+|Element (id = 6334ef7d-5a2e-4584-90b3-8c3b03379841)|
+|Element (id = 6f9cbcf1-c224-4eb9-bfbe-57c9a4cdb708)|
+|Element (id = ff3b4783-6779-4dc4-8cb8-bd582f94770f)|
+|Element (id = 9b2169d4-d982-4c82-83f5-c036138767ab)|
+
+20210812-14:12:32.0071  |  Debug  |  Click  |  Clicking on Element.
+20210812-14:12:48.0907  |  Info  |  CloseBrowser  |  Closing Browser Session
+20210812-14:16:08.0807  |  Info  |  CoreTools  |  Opening Browser
+20210812-14:16:08.0848  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20210812-14:16:08.0851  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20210812-14:16:36.0524  |  Debug  |  NavTo  |  Ready State:	complete
+20210812-14:16:38.0552  |  Info  |  NavTo  |  Success - Navigated to:	https://www.seleniumeasy.com/test/basic-checkbox-demo.html
+20210812-14:16:44.0564  |  Debug  |  SetLocator  |  Locator Strategy:	ID	Element:	isAgeSelected
+20210812-14:16:44.0570  |  Debug  |  FindElement  |  Finding Element [isAgeSelected]
+20210812-14:16:49.0680  |  Debug  |  Click  |  Clicking on Element.
+20210812-14:17:03.0705  |  Debug  |  NavTo  |  Ready State:	complete
+20210812-14:17:05.0728  |  Info  |  NavTo  |  Success - Navigated to:	https://www.seleniumeasy.com/test/basic-first-form-demo.html
+20210812-14:17:13.0735  |  Debug  |  SetLocator  |  Locator Strategy:	ID	Element:	at-cv-lightbox-close
+20210812-14:17:13.0742  |  Debug  |  FindElement  |  Finding Element [at-cv-lightbox-close]
+20210812-14:17:16.0768  |  Debug  |  Click  |  Clicking on Element.
+20210812-14:17:24.0005  |  Debug  |  SetLocator  |  Locator Strategy:	ID	Element:	user-message
+20210812-14:17:24.0014  |  Debug  |  FindElement  |  Finding Element [user-message]
+20210812-14:17:55.0917  |  Debug  |  NavTo  |  Ready State:	complete
+20210812-14:17:57.0940  |  Info  |  NavTo  |  Success - Navigated to:	https://www.ltaat.com/
+20210812-14:18:04.0949  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//*[contains(text(),'LTAAT')]
+20210812-14:18:04.0963  |  Debug  |  FindElement  |  Finding Element [//*[contains(text(),'LTAAT')]]
+20210812-14:18:07.0997  |  Debug  |  SetAttribute  |  JavaScript to Run:
+
+20210812-14:18:10.0026  |  Debug  |  SetAttribute  |  JavaScript to Run:
+
+20210812-14:18:14.0090  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//a[text()='About the Founder']
+20210812-14:18:14.0102  |  Debug  |  FindElement  |  Finding Element [//a[text()='About the Founder']]
+20210812-14:18:17.0136  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//a
+20210812-14:18:20.0194  |  Debug  |  FindElements  |  Elements Found:	62
+	
+|Element (id = 01b55274-c6b9-49ff-9231-7f178bb8ddae)|
+|Element (id = 26326696-b19f-4a16-a6ab-b618356638f2)|
+|Element (id = bfba0233-2ecd-4966-8629-7b47f2bf5222)|
+|Element (id = 8ba3f340-86fd-441c-8cf8-3c13d46c40dd)|
+|Element (id = d3d67c74-6bf0-4bf8-bc88-524c4a5d2897)|
+|Element (id = 04c9a775-e178-42ed-8e89-7b75347429c8)|
+|Element (id = 2cf8a9af-10f8-4f9c-96ae-521ed16cb505)|
+|Element (id = 6b7e103d-e547-4cb2-8809-1c1933170ec5)|
+|Element (id = cbafdf19-8e19-4193-ac54-65fc0165d409)|
+|Element (id = 4f02e919-116f-4c77-9f59-5d5b81c0ca70)|
+|Element (id = be802fa8-567c-4227-974b-9ca1c7f0b75d)|
+|Element (id = 4b329095-32df-466b-8e81-f8af17c7f6ae)|
+|Element (id = 533bf5d0-c9c8-4fe2-bcf3-19f57a9843d1)|
+|Element (id = dc8d2552-1a0e-49d6-8b6b-b5e70373b839)|
+|Element (id = d871c649-1ffd-4289-ad25-90e7d39ff8af)|
+|Element (id = c3fde46a-ec0f-4e35-8829-cb7e5953dc09)|
+|Element (id = 319bb649-8e0a-4f25-ba84-3a409abbe3af)|
+|Element (id = 2f76ab10-221c-46c8-bf5c-53309907d3d8)|
+|Element (id = 6f905ecd-82de-4355-a6cb-c8e19adba1de)|
+|Element (id = dc17a00b-9e5f-426a-a94c-7641dede1972)|
+|Element (id = aba84811-2897-45f5-b7e1-728132743e7d)|
+|Element (id = 21be3666-5436-40ad-a9be-6d21aa7667e7)|
+|Element (id = ed2f0180-29ae-4d55-b6cc-32fa1290ec4d)|
+|Element (id = 3f4b33fc-18e6-4f8b-adea-bcff4bff2c46)|
+|Element (id = 4bda14d5-164b-40b0-8669-b4874c3d094b)|
+|Element (id = c1f3b74a-0f54-460e-bd31-ac797bca6ab1)|
+|Element (id = f4a1b220-3fbd-40b3-908b-41963acbeafc)|
+|Element (id = 6fef50aa-ab25-497f-b24c-8d5b865f2e45)|
+|Element (id = 8acc026d-d854-4b3a-bc4d-b4b10b0f63be)|
+|Element (id = a38f35b6-70b6-41ac-9000-d392c789489d)|
+|Element (id = 65a633bb-d5ca-4121-8c48-aa68470f6be4)|
+|Element (id = d2225d1a-e354-4e1d-930b-51800ec3b213)|
+|Element (id = 5342f53b-eca1-4061-829e-5fa31603d7ce)|
+|Element (id = ed5218a4-d286-4abe-b9c9-0400be07142f)|
+|Element (id = 38250759-6cb6-412d-bdc6-34c323b211bb)|
+|Element (id = 950a733d-bd9d-472c-93ef-228c8810afea)|
+|Element (id = b2a9f6c6-461a-4967-b96c-35f1615bc466)|
+|Element (id = 2a1c8acb-6d45-4ede-8c39-1c4fb7ba9ed4)|
+|Element (id = 5b915be3-0987-4a6f-8de8-c2ce4113ba3b)|
+|Element (id = e59c521a-f271-4920-8832-ef9abf33a00b)|
+|Element (id = 4d9bf3fd-804b-43f6-867e-1fd8bfb8e391)|
+|Element (id = ee825553-e232-4a16-974b-d58ed6d98eb0)|
+|Element (id = 7a598a73-97a1-490b-8959-c9a1940a9d62)|
+|Element (id = e39a3d0d-3bc4-4e6c-b33c-fd235724b4b8)|
+|Element (id = 75140923-ddcc-4170-9724-02f14a72b0ad)|
+|Element (id = 51e266e1-2089-4f6d-9dca-a9fdd3988ec3)|
+|Element (id = d8c19044-2e4a-4954-9621-c91264fb8adb)|
+|Element (id = d3fff1a8-a802-4146-94a6-89e48c610445)|
+|Element (id = 90ebf2c6-f9d4-4083-bde8-96017061270e)|
+|Element (id = faad60f4-4d3c-40e0-bf24-94412530cb4f)|
+|Element (id = f1d4d9eb-1a7a-4e4f-991f-a7a5151721f3)|
+|Element (id = 5edd3729-e9d2-4e65-828c-15736f535d86)|
+|Element (id = 090e82a6-93fa-4806-a59e-54dc19b20d7f)|
+|Element (id = 8fd96749-e706-42c5-8228-0d8c20eb5192)|
+|Element (id = ec9d373c-220e-4026-ad5d-c3837e919113)|
+|Element (id = a7d6b425-1338-4a4e-914b-a2ae7c9a0dd3)|
+|Element (id = f07d9b75-4af6-4df9-a6c3-3fffca5d7aa2)|
+|Element (id = 808d6ea2-82db-4990-8d03-9e951c224014)|
+|Element (id = 3805ac3d-be7c-4499-ae70-c36bf91c431f)|
+|Element (id = d15c9e0d-9f78-4be5-be2d-526aa4c08dcd)|
+|Element (id = 1605dfce-4889-4dfd-af6f-f65cb863a47a)|
+|Element (id = 4e09a64c-f830-4c08-93a1-45186f518402)|
+
+20210812-14:18:20.0265  |  Debug  |  Click  |  Clicking on Element.
+20210812-14:18:36.0069  |  Info  |  CloseBrowser  |  Closing Browser Session
+20210819-22:51:55.0710  |  Info  |  CoreTools  |  Opening Browser
+20210819-22:51:55.0790  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20210819-22:51:55.0794  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20210819-22:52:16.0034  |  Debug  |  NavTo  |  Ready State:	complete
+20210819-22:52:18.0072  |  Info  |  NavTo  |  Success - Navigated to:	https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games
+20210819-22:52:25.0088  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//table[@id='softwarelist']
+20210819-22:52:25.0096  |  Debug  |  FindElement  |  Finding Element [//table[@id='softwarelist']]
+20210819-22:52:30.0463  |  Warning  |  Table2List  |  An Unhandled Exception occurred.
+System.InvalidCastException: Unable to cast object of type 'System.Collections.ObjectModel.ReadOnlyCollection`1[OpenQA.Selenium.IWebElement]' to type 'OpenQA.Selenium.IWebElement'.
+   at CoreToolSet.CoreTools.Table2List(Int32 headerRow, Boolean textOnly) in C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\CoreTools.cs:line 873
+20210819-23:01:47.0886  |  Info  |  CoreTools  |  Opening Browser
+20210819-23:01:47.0925  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20210819-23:01:47.0927  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20210819-23:02:07.0358  |  Debug  |  NavTo  |  Ready State:	complete
+20210819-23:02:09.0393  |  Info  |  NavTo  |  Success - Navigated to:	https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games
+20210819-23:02:16.0404  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//table[@id='softwarelist']
+20210819-23:02:16.0412  |  Debug  |  FindElement  |  Finding Element [//table[@id='softwarelist']]
+20210819-23:02:23.0775  |  Warning  |  Table2List  |  An Unhandled Exception occurred.
+System.InvalidCastException: Unable to cast object of type 'System.Collections.ObjectModel.ReadOnlyCollection`1[OpenQA.Selenium.IWebElement]' to type 'OpenQA.Selenium.IWebElement'.
+   at CoreToolSet.CoreTools.Table2List(Int32 headerRow, Boolean textOnly) in C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\CoreTools.cs:line 885
+20210819-23:04:01.0823  |  Info  |  CoreTools  |  Opening Browser
+20210819-23:04:01.0862  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20210819-23:04:01.0865  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20210819-23:04:21.0340  |  Debug  |  NavTo  |  Ready State:	complete
+20210819-23:04:23.0369  |  Info  |  NavTo  |  Success - Navigated to:	https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games
+20210819-23:04:29.0384  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//table[@id='softwarelist']
+20210819-23:04:29.0391  |  Debug  |  FindElement  |  Finding Element [//table[@id='softwarelist']]
+20210819-23:17:13.0900  |  Info  |  CoreTools  |  Opening Browser
+20210819-23:17:13.0939  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20210819-23:17:13.0942  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20210819-23:17:32.0960  |  Debug  |  NavTo  |  Ready State:	complete
+20210819-23:17:34.0992  |  Info  |  NavTo  |  Success - Navigated to:	https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games
+20210819-23:17:41.0004  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//table[@id='softwarelist']
+20210819-23:17:41.0013  |  Debug  |  FindElement  |  Finding Element [//table[@id='softwarelist']]
+20210908-20:43:15.0902  |  Info  |  CoreTools  |  Opening Browser
+20210908-20:43:16.0026  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20210908-20:43:16.0029  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20210908-20:43:38.0164  |  Debug  |  NavTo  |  Ready State:	complete
+20210908-20:43:40.0215  |  Info  |  NavTo  |  Success - Navigated to:	https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games
+20210908-20:43:47.0239  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//table[@id='softwarelist']
+20210908-20:43:47.0245  |  Debug  |  FindElement  |  Finding Element [//table[@id='softwarelist']]
+20210908-20:55:55.0103  |  Info  |  CoreTools  |  Opening Browser
+20210908-20:55:55.0183  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20210908-20:55:55.0186  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20210908-20:56:15.0358  |  Debug  |  NavTo  |  Ready State:	complete
+20210908-20:56:17.0434  |  Info  |  NavTo  |  Success - Navigated to:	https://en.wikipedia.org/wiki/List_of_Virtual_Boy_games
+20210908-20:56:26.0464  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//table[@id='softwarelist']
+20210908-20:56:26.0469  |  Debug  |  FindElement  |  Finding Element [//table[@id='softwarelist']]
+20210917-11:37:59.0109  |  Info  |  CoreTools  |  Opening Browser
+20210917-11:37:59.0141  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20210917-11:37:59.0143  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20220930-10:02:22.0673  |  Info  |  CoreTools  |  Opening Browser
+20220930-10:02:22.0780  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20220930-10:02:22.0782  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20220930-10:02:42.0618  |  Debug  |  NavTo  |  Ready State:	complete
+20220930-10:02:44.0640  |  Info  |  NavTo  |  Success - Navigated to:	https://www.seleniumeasy.com/test/basic-checkbox-demo.html
+20220930-10:02:51.0650  |  Debug  |  SetLocator  |  Locator Strategy:	ID	Element:	isAgeSelected
+20220930-10:02:51.0659  |  Debug  |  FindElement  |  Finding Element [isAgeSelected]
+20220930-10:02:54.0783  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:02:57.0840  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:00.0891  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:03.0946  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:07.0007  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:10.0062  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:13.0112  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:16.0161  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:19.0217  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:22.0271  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:25.0325  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:28.0383  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:31.0436  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:34.0494  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:37.0539  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-10:03:40.0589  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:57:00.0947  |  Info  |  CoreTools  |  Opening Browser
+20220930-14:57:01.0056  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20220930-14:57:01.0058  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20220930-14:57:29.0021  |  Debug  |  NavTo  |  Ready State:	complete
+20220930-14:57:31.0254  |  Info  |  NavTo  |  Success - Navigated to:	https://www.seleniumeasy.com/test/basic-checkbox-demo.html
+20220930-14:57:38.0267  |  Debug  |  SetLocator  |  Locator Strategy:	ID	Element:	isAgeSelected
+20220930-14:57:38.0275  |  Debug  |  FindElement  |  Finding Element [isAgeSelected]
+20220930-14:57:41.0436  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:57:44.0512  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:57:47.0597  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:57:50.0717  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:57:53.0787  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:57:56.0879  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:57:59.0956  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:03.0061  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:06.0148  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:09.0249  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:12.0336  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:15.0413  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:18.0498  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:21.0573  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:24.0648  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:27.0720  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:30.0792  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:33.0870  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:36.0948  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:40.0037  |  Warning  |  FindElement  |  Locator not found:	isAgeSelected	|	id
+20220930-14:58:40.0045  |  Critical  |  FindElement  |  Unable to Locate Element:	isAgeSelected using strategy id.
+20220930-15:00:33.0116  |  Info  |  CoreTools  |  Opening Browser
+20220930-15:00:33.0206  |  Info  |  SetDriverFilePath  |  Driver Path Found:	
+20220930-15:00:33.0209  |  Info  |  SetDriverFilePath  |  Driver File Found:	C:/ProgramData/SeleniumDrivers/geckodriver.exe
+20220930-15:00:57.0709  |  Debug  |  NavTo  |  Ready State:	complete
+20220930-15:00:59.0742  |  Info  |  NavTo  |  Success - Navigated to:	https://www.ltaat.com/
+20220930-15:01:07.0755  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//*[contains(text(),'LTAAT')]
+20220930-15:01:07.0762  |  Debug  |  FindElement  |  Finding Element [//*[contains(text(),'LTAAT')]]
+20220930-15:01:10.0790  |  Debug  |  SetAttribute  |  JavaScript to Run:
+
+20220930-15:01:12.0811  |  Debug  |  SetAttribute  |  JavaScript to Run:
+
+20220930-15:01:16.0865  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//a[text()='About the Founder']
+20220930-15:01:16.0871  |  Debug  |  FindElement  |  Finding Element [//a[text()='About the Founder']]
+20220930-15:01:19.0891  |  Debug  |  SetLocator  |  Locator Strategy:	XPATH	Element:	//a
+20220930-15:01:22.0935  |  Debug  |  FindElements  |  Elements Found:	62
+	
+|Element (id = ae04bd8e-a34d-4b64-95fd-880703aade80)|
+|Element (id = 3d345913-7432-48cd-8a7d-8f235ea91a65)|
+|Element (id = c99b5644-11f4-4357-872f-6838c051c282)|
+|Element (id = 76daa669-d236-4496-9fbc-5d33e7bbf7e8)|
+|Element (id = 498a4f75-a104-49f9-b263-ce08877ed90a)|
+|Element (id = 0db3882b-9bf4-4501-8db1-511b6a376e97)|
+|Element (id = 790698e3-bdc4-40f5-a429-bee9af2e46a6)|
+|Element (id = 79d5eab4-d25b-4335-a1e5-4c4df4979c65)|
+|Element (id = 14a30ec9-8e5a-40e7-be02-e307893c581a)|
+|Element (id = 02d77bc5-6ede-41c4-8425-48fe34504e7b)|
+|Element (id = 48a102f9-34c0-4e76-bf42-e20b4b09cc94)|
+|Element (id = 25f33311-cac0-4313-b9ee-1bd179357c5b)|
+|Element (id = 3d063669-0055-428f-93d6-421f03aa7a4f)|
+|Element (id = 3da20f14-b505-4fce-8c31-0279cada0240)|
+|Element (id = abcd80b2-5206-467f-bf7f-43c912c574de)|
+|Element (id = d90b882b-5a5c-4d28-b28c-0e8bc1de2254)|
+|Element (id = 5357126f-efef-4f05-bbbd-59c388bbff11)|
+|Element (id = bfa462cc-8ce8-4c72-a273-dd7939517d76)|
+|Element (id = 2f324246-c5c8-4aec-8ec7-165193839cfb)|
+|Element (id = 6c674804-8db7-4529-8ec5-4df030fa988b)|
+|Element (id = 933fe4cc-e13f-442d-8d07-83045b0ee2c5)|
+|Element (id = b86e7d4b-3ef1-4a50-950d-63796f172db7)|
+|Element (id = 0ecfadbb-fd33-44eb-b451-ec9cd7cc11ee)|
+|Element (id = d8f17e7f-16e8-4348-b6fb-078c9dba3650)|
+|Element (id = 78b455cb-6088-4c69-9171-fb6334831c34)|
+|Element (id = dab90f23-562f-489e-9625-ed9f4d9b5346)|
+|Element (id = 2e165ba6-d89f-4578-ba91-93e2a7441203)|
+|Element (id = 674bc80c-baae-49e6-ad9b-07180f8afd96)|
+|Element (id = 640834c9-1efe-41f5-803b-de7cb1a245fe)|
+|Element (id = 4dd46d4c-17a6-493c-9cdd-17a75a092c08)|
+|Element (id = 360bd4b4-df45-43ae-99fc-b9d681b59549)|
+|Element (id = 763176d0-2f16-47a9-aabb-e992b9b80cd0)|
+|Element (id = 4582ddcf-4fa6-4db7-8cde-e80e561916e3)|
+|Element (id = 686c8af4-e32e-40c1-85bb-b3f706557d28)|
+|Element (id = a1862339-0fbe-4d81-82af-aa1ffa483782)|
+|Element (id = fc68697f-7828-4378-b8f0-2437b2fc84ce)|
+|Element (id = bbe893ea-4064-4e94-a919-807ba1f1afab)|
+|Element (id = ccc459a1-4613-4fe8-bcfd-4368e2aaa781)|
+|Element (id = 0c18235e-f5ef-4b31-8b4e-01cb1b99c467)|
+|Element (id = 16400722-e095-4376-9ce7-f71bbaf34462)|
+|Element (id = 21f008d9-0e18-421e-80a7-f61c7f6f787c)|
+|Element (id = 9dd1796c-330b-40aa-9140-5b792f43fa9c)|
+|Element (id = 674dd8f9-4bc7-4704-88d2-52544cdc5b5c)|
+|Element (id = 44b092ab-7aad-46f7-8e69-bb6524a3047f)|
+|Element (id = 0e58e6ec-9afd-4aaf-8e56-414831f7e090)|
+|Element (id = caf6f448-5924-4dfc-8a79-b6e74a3abd1a)|
+|Element (id = c75afe73-12f2-47ec-9c25-b5a63e689ea1)|
+|Element (id = 0090444b-62d7-472f-bea6-96167e101385)|
+|Element (id = 6d7446d7-4bdc-4bd7-9717-35c71faaf462)|
+|Element (id = 1f38b672-2b07-40c3-8efd-e059fda3890c)|
+|Element (id = a2e3c199-fe9e-4b1c-b1d0-1bfad780b881)|
+|Element (id = f6068fcc-9d96-42ee-ac29-9e333462c9f0)|
+|Element (id = 72b11976-904e-41a7-9b96-46179bafdad1)|
+|Element (id = 23cc3c2f-5525-4d50-b802-60aab77442f8)|
+|Element (id = 37894269-2ddf-4369-a908-199f65a317ff)|
+|Element (id = 91399760-b3f2-4a2b-a4ce-b420c0239b8e)|
+|Element (id = 71d116e2-1900-4e02-a8c5-795dc472f4e6)|
+|Element (id = af7156c2-5801-4e37-afa5-344ade85fe1c)|
+|Element (id = ea3027f7-3d72-4678-b63b-c4b90e275072)|
+|Element (id = a248e6c4-e58d-4531-8144-9a723041a9b8)|
+|Element (id = 469229ed-c08a-4a9e-8e94-d44d92776eee)|
+|Element (id = 4b20f9b8-a89b-497d-8e9e-7ebfbd7ed808)|
+
+20220930-15:01:22.0983  |  Debug  |  Click  |  Clicking on Element.
+20220930-15:01:36.0798  |  Info  |  CloseBrowser  |  Closing Browser Session

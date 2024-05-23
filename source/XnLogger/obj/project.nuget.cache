@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0B9LTcESPP6aNdFsSskjJuqvzjPqPw3BRdxU2JakX4Lv7J83apktFaOBXyKtUEhyVN4akQ2e5pXjvlHqvYSL7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xenor\\source\\repos\\BingItHere_V2\\XnLogger\\XnLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xenor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\xenor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

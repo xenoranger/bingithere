@@ -1,0 +1,9 @@
+C:\Users\xenor\source\repos\BingItHere_V2\XnLogger\obj\Debug\netstandard2.0\XnLogger.AssemblyInfoInputs.cache
+C:\Users\xenor\source\repos\BingItHere_V2\XnLogger\obj\Debug\netstandard2.0\XnLogger.AssemblyInfo.cs
+C:\Users\xenor\source\repos\BingItHere_V2\XnLogger\obj\Debug\netstandard2.0\XnLogger.csproj.CoreCompileInputs.cache
+C:\Users\xenor\source\repos\BingItHere_V2\XnLogger\bin\Debug\netstandard2.0\XnLogger.deps.json
+C:\Users\xenor\source\repos\BingItHere_V2\XnLogger\bin\Debug\netstandard2.0\XnLogger.dll
+C:\Users\xenor\source\repos\BingItHere_V2\XnLogger\bin\Debug\netstandard2.0\XnLogger.pdb
+C:\Users\xenor\source\repos\BingItHere_V2\XnLogger\obj\Debug\netstandard2.0\XnLogger.dll
+C:\Users\xenor\source\repos\BingItHere_V2\XnLogger\obj\Debug\netstandard2.0\XnLogger.pdb
+C:\Users\xenor\source\repos\BingItHere_V2\XnLogger\obj\Debug\netstandard2.0\XnLogger.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\bin\Debug\netstandard2.0\CoreToolSet.deps.json
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\bin\Debug\netstandard2.0\CoreToolSet.dll
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\bin\Debug\netstandard2.0\CoreToolSet.pdb
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\bin\Debug\netstandard2.0\XnLogger.dll
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\bin\Debug\netstandard2.0\XnLogger.pdb
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\obj\Debug\netstandard2.0\CoreToolSet.csprojAssemblyReference.cache
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\obj\Debug\netstandard2.0\CoreToolSet.AssemblyInfoInputs.cache
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\obj\Debug\netstandard2.0\CoreToolSet.AssemblyInfo.cs
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\obj\Debug\netstandard2.0\CoreToolSet.csproj.CoreCompileInputs.cache
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\obj\Debug\netstandard2.0\CoreToolSet.csproj.CopyComplete
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\obj\Debug\netstandard2.0\CoreToolSet.dll
+C:\Users\xenor\source\repos\BingItHere_V2\CoreToolSet\obj\Debug\netstandard2.0\CoreToolSet.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LOBjse7cdQyYP/zNBAeoTSFzYeE2n2yERM8NkDc+LY9bGmoziHn17hEV2eXItP1/FrXKKCb19GZ/0Y4wq8R7vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xenor\\source\\repos\\BingItHere_V2\\CoreToolSet\\CoreToolSet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xenor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\xenor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\xenor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\xenor\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512"
+  ],
+  "logs": []
+}
